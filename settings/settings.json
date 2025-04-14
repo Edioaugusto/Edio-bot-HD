@@ -1,13 +1,12 @@
 {
-  "prefix": "#",
-  "NomeDoBot": "𝐀𝐊𝐀𝐌𝐄 - V8.5",
-  "ownerName": "BRONXYS",
-  "channel": "https://chat.whatsapp.com/GVQsAe6CAjoJLuotkpnAqq",
-  "group": "https://chat.whatsapp.com/GVQsAe6CAjoJLuotkpnAqq",
-  "ownerNumber": "5512978986457",
+  "prefix": "/",
+  "NomeDoBot": "EDIO-BOT-HD- V8.5",
+  "ownerName": "SOUSA",
+  "group": "https://chat.whatsapp.com/Ir9g2spQpyu7bnPhhv8jVx",
+  "ownerNumber": "258833152230",
   "CREDENTIALS_USER": {
      "API_KEY_AKAME": "Akamefree",
      "API_URL": "https://yurimodz-apis.xyz"
   },
-  "WARNING_NUMBER": "🌟 Olá, para configurar seu número na bot é preciso copiar da forma que está no WhatsApp, por exemplo: '5512978986457', se seu número conter um caractere à mais, adicione no número, dúvidas? Use o comando: [Prefix]Configurar-bot ou entre em contato com o criador do bot. Desde já, obrigado pela a atenção!"
+  "WARNING_NUMBER": "🌟 Olá, para configurar seu número na bot é preciso copiar da forma que está no WhatsApp, por exemplo: '258876598622', se seu número conter um caractere à mais, adicione no número, dúvidas? Use o comando: [Prefix]Configurar-bot ou entre em contato com o criador do bot. Desde já, obrigado pela a atenção!"
 }
